@@ -6,4 +6,5 @@ def calculate_discount(day: date, expected: Decimal) -> Decimal:
     return Decimal (expected)
 
 
+
 #print (calculate_discount(date ( 22, 12, 8 ), Decimal("12.3")))
